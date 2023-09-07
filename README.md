@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kacper!</h1>
+<h1 align="center">Hi, I'm Kacper</h1>
 <h3 align="center">A learning Spring Boot dev, focusing on backend development.</h3>
 
 
